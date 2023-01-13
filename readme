@@ -1,0 +1,3 @@
+This is a flashcard for learning French words. Only 100 words are included in this project but more can be easily added.
+When the check button is pressed, the word is removed from the list and won't be present in subsequent sessions unless
+the "words_to_learn.csv" file is cleared or deleted.
